@@ -7,7 +7,7 @@ An iTerm2 adaptation of SpaceCamp vim theme.
 ## Installation
 - Clone the repo or download the ``.itermcolors`` file
 - Launch iTerm 2. Get the latest version at [iterm2.com](https://iterm2.com)
-- Type ``cmd + ,``
+- Open the app preferences (``cmd + ,``)
 - Navigate to ``Colors`` tab in your profile config
 - Click on the ``Color Presets`` menu
 - Click on ``Import…``
