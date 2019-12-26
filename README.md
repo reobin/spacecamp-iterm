@@ -1,7 +1,7 @@
 # SpaceCamp iTerm2 adaptation <img align="left" width="100" height="100" src="https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_logo.png">
 An iTerm2 adaptation of SpaceCamp vim theme.
 
-![SpaceCamp iTerm2 color preset](https://i.imgur.com/T7C4n7b.png)
+![SpaceCamp iTerm2 color preset](https://github.com/reobin/spacecamp-iterm/blob/master/screenshot.png)
 ![Theme Swatch](https://github.com/jaredgorski/SpaceCamp/raw/master/.media/spacecamp_colors.png)
 
 ## Installation
